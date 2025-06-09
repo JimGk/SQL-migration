@@ -1,10 +1,10 @@
-# 🛠️ Legacy to Modern Database Migration (PostgreSQL)
+# Legacy to Modern Database Migration (PostgreSQL)
 
 This project simulates a real-world database migration from a legacy schema to a modern PostgreSQL system. It includes schema design, data import, SQL-based data transformation, and post-migration validation.
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 SQL-Migration-Project/
@@ -16,7 +16,7 @@ SQL-Migration-Project/
 
 ---
 
-## 🧱 Tools Used
+## Tools Used
 
 - PostgreSQL
 - DBeaver
@@ -24,7 +24,7 @@ SQL-Migration-Project/
 
 ---
 
-## ✅ Features & Steps
+## Features & Steps
 
 1. **Schema Design**
    - `legacy_schema.sql`: basic structure using first/last names
@@ -46,7 +46,7 @@ SQL-Migration-Project/
 
 ---
 
-## 📈 What This Project Demonstrates
+## What This Project Demonstrates
 
 - PostgreSQL proficiency (DDL, DML, joins, constraints, casting)
 - Migration and transformation logic using SQL only
@@ -56,8 +56,6 @@ SQL-Migration-Project/
 
 ---
 
-## 👤 Author
+## Author
 
 **Dimitrios Gogos**  
-📧 dimitrios.gogos@proton.me  
-🔗 [GitHub](https://github.com/JimGk)

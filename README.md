@@ -1,6 +1,6 @@
 # Legacy to Modern Database Migration (PostgreSQL)
 
-This project simulates a real-world database migration from a legacy schema to a modern PostgreSQL system. It includes schema design, data import, SQL-based data transformation, and post-migration validation.
+This project simulates a sample database migration from a legacy schema to a modern PostgreSQL system. It includes schema design, data import, SQL-based data transformation, and post-migration validation.
 
 ---
 

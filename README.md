@@ -12,7 +12,6 @@ SQL-Migration-Project/
 ├── schema/         # SQL files for legacy and modern schemas
 ├── scripts/        # SQL scripts to migrate and transform data
 ├── validation/     # Validation queries to check consistency
-├── docs/           # License and documentation
 ```
 
 ---
@@ -22,7 +21,6 @@ SQL-Migration-Project/
 - PostgreSQL
 - DBeaver
 - Git & GitHub
-- SQL (PostgreSQL dialect)
 
 ---
 
@@ -58,14 +56,8 @@ SQL-Migration-Project/
 
 ---
 
-## 📄 License
-
-MIT – see `LICENSE` file for details
-
----
-
 ## 👤 Author
 
 **Dimitrios Gogos**  
 📧 dimitrios.gogos@proton.me  
-🔗 [GitHub](https://github.com/yourusername)
+🔗 [GitHub](https://github.com/JimGk)

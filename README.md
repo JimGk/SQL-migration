@@ -56,6 +56,9 @@ SQL-Migration-Project/
 
 ---
 
+<img width="619" alt="image" src="https://github.com/user-attachments/assets/67fcbb3a-6520-47cb-a418-47369df9ac09" />
+
+
 ## Author
 
 **Dimitrios Gogos**  
